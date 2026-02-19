@@ -43,7 +43,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar e implementar so
 
 ## 🚀 Projetos em Destaque
 
-### 📋 [ToDoList API](#) *(Insira o link do seu repositório aqui)*
+### 📋 [ToDoList API](#) *(https://github.com/jorgenet0h/To_Do_List.git)*
 Desenvolvimento de uma API RESTful para gestão de tarefas, com operações de CRUD. Projeto focado em boas práticas, organização de código e escalabilidade.
 * **Tecnologias:** Node.js, Express, Sequelize, SQLite, JavaScript.
 
