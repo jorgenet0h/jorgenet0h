@@ -47,7 +47,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar e implementar so
 Desenvolvimento de uma API RESTful para gestão de tarefas, com operações de CRUD. Projeto focado em boas práticas, organização de código e escalabilidade.
 * **Tecnologias:** Node.js, Express, Sequelize, SQLite, JavaScript.
 
-### 🎓 [Gerenciador De Notas](#) *(Insira o link do seu repositório aqui)](https://github.com/jorgenet0h/Gerenciador-de-notas.git)*
+### 🎓 [Gerenciador De Notas](#) *(https://github.com/jorgenet0h/Gerenciador-de-notas.git)*
 Aplicação executada via terminal para gerenciamento de alunos. Realiza cálculo de médias, exibe status (aprovado/reprovado/recuperação) e gera relatórios gerais da turma através de menus interativos com validações robustas.
 * **Tecnologias:** JavaScript, Node.js.
 
